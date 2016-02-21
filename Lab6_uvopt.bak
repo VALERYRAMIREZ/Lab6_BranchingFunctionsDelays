@@ -205,10 +205,10 @@
       <FileType>2</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>14</ColumnNumber>
+      <ColumnNumber>0</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>273</TopLine>
-      <CurrentLine>283</CurrentLine>
+      <TopLine>37</TopLine>
+      <CurrentLine>46</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\startup.s</PathWithFileName>
       <FilenameWithoutPath>startup.s</FilenameWithoutPath>
@@ -221,10 +221,10 @@
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>27</ColumnNumber>
+      <ColumnNumber>24</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>15</TopLine>
-      <CurrentLine>36</CurrentLine>
+      <TopLine>16</TopLine>
+      <CurrentLine>25</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\BranchingFunctionsDelays.c</PathWithFileName>
       <FilenameWithoutPath>BranchingFunctionsDelays.c</FilenameWithoutPath>
@@ -271,8 +271,8 @@
       <Focus>0</Focus>
       <ColumnNumber>24</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>1</TopLine>
-      <CurrentLine>1</CurrentLine>
+      <TopLine>0</TopLine>
+      <CurrentLine>0</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\Abstracto.txt</PathWithFileName>
       <FilenameWithoutPath>Abstracto.txt</FilenameWithoutPath>

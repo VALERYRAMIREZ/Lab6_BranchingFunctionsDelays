@@ -174,7 +174,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>880000009B000000DC02000012010000</Data>
+          <Data>B4000000C7000000080300003E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -294,7 +294,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>880000009B000000180200002B020000</Data>
+          <Data>B4000000C70000004402000057020000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -314,7 +314,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>880000009B000000180200002B020000</Data>
+          <Data>B4000000C70000004402000057020000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -494,7 +494,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>880000009B000000DC02000012010000</Data>
+          <Data>B4000000C7000000080300003E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -2588,9 +2588,9 @@
       <ActiveTab>0</ActiveTab>
       <Doc>
         <Name>.\BranchingFunctionsDelays.c</Name>
-        <ColumnNumber>29</ColumnNumber>
-        <TopLine>16</TopLine>
-        <CurrentLine>34</CurrentLine>
+        <ColumnNumber>3</ColumnNumber>
+        <TopLine>1</TopLine>
+        <CurrentLine>28</CurrentLine>
         <Folding>1</Folding>
         <ContractedFolders></ContractedFolders>
         <PaneID>0</PaneID>
